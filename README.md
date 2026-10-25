@@ -87,3 +87,37 @@ gocharm.max = 3
 
 # Default privileges for newly registered players
 default_privs = interact, shout, gocharm
+```
+
+> **Note on Permissions**: The `/gocharm` command requires the `gocharm` privilege. Server administrators can grant it via `/grant <player> gocharm` or configure it in `default_privs`.
+
+---
+
+## 🔄 Differences from `octacian/multihome`
+
+| Feature | Legacy `multihome` | **GoCharm** |
+| :--- | :--- | :--- |
+| **Interface** | Text console only | **Interactive GUI (Formspec) + CLI** |
+| **Physical Item** | None | **Traveler's Amulet** (custom 2D/3D textures) |
+| **Recall Mechanism** | Type full command | **1-Click Mouse Button (RMB)** |
+| **Primary Location** | Equal priority | **Dedicated MASTER waypoint** |
+| **Engine API** | Deprecated `get_attribute` | Modern `player:get_meta()` (`MetaDataRef`) |
+| **Engine Target** | Minetest 0.4.x / 5.x | **Luanti 5.10+ & 5.17 Verified** |
+| **Localization** | Hardcoded English | **Native `.tr` i18n (English, Polish)** |
+| **Game Integration**| Generic | **Native VoxeLibre & Minetest Game recipes** |
+
+---
+
+## 👥 Credits & Acknowledgments
+
+- **Original Mod**: Developed by [octacian](https://github.com/octacian) as `multihome`.
+- **GoCharm Concept, Design & Maintenance**: [Fryziu](https://github.com/Fryziu).
+- **Collaborative Development & Architecture**: Built and optimized with assistance from **Google Gemini** (code refactoring, Formspec parser hardening, Luanti 5.17 metadata migration, and i18n architecture).
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
+
+```
