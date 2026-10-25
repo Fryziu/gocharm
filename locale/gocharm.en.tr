@@ -1,0 +1,18 @@
+# textdomain: gocharm
+Traveler's Amulet=Traveler's Amulet
+LMB: Open Menu\nRMB: Teleport to MASTER=LMB: Open Menu\nRMB: Teleport to MASTER
+Locations (@1/@2)=Locations (@1/@2)
+Teleport=Teleport
+Update to My Pos=Update to My Pos
+Set as MASTER=Set as MASTER
+Delete=Delete
+New location name:=New location name:
+Save Location=Save Location
+No home selected!=No home selected!
+Set "@1" as MASTER home.=Set "@1" as MASTER home.
+Home "@1" updated to current position.=Home "@1" updated to current position.
+Home "@1" has been deleted.=Home "@1" has been deleted.
+Name cannot be empty!=Name cannot be empty!
+Home "@1" already exists! Choose another name.=Home "@1" already exists! Choose another name.
+Limit of @1 homes reached!=Limit of @1 homes reached!
+No MASTER home set!=No MASTER home set! Click LMB to select one.

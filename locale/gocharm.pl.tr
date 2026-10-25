@@ -1,0 +1,18 @@
+# textdomain: gocharm
+Traveler's Amulet=Amulet Podróżnika
+LMB: Open Menu\nRMB: Teleport to MASTER=LPM: Otwórz Menu\nPPM: Skok do MASTER
+Locations (@1/@2)=Lokacje (@1/@2)
+Teleport=Teleportuj
+Update to My Pos=Zaktualizuj tu
+Set as MASTER=Ustaw jako MASTER
+Delete=Usuń
+New location name:=Nazwa nowej lokacji:
+Save Location=Zapisz lokację
+No home selected!=Nie wybrano lokacji!
+Set "@1" as MASTER home.=Ustawiono "@1" jako cel główny (MASTER).
+Home "@1" updated to current position.=Zaktualizowano pozycję "@1" do Twoich współrzędnych.
+Home "@1" has been deleted.=Lokacja "@1" została usunięta.
+Name cannot be empty!=Nazwa nie może być pusta!
+Home "@1" already exists! Choose another name.=Lokacja "@1" już istnieje! Wybierz inną nazwę.
+Limit of @1 homes reached!=Osiągnięto limit @1 lokacji!
+No MASTER home set!=Brak celu MASTER! Kliknij LPM, aby go wybrać.
