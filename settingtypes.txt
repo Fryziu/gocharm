@@ -1,6 +1,0 @@
-# Limit the max number of homes per-player.
-multihome.max (max number of homes per-player) int 5
-
-multihome.compatibility () enum none none,deprecate,override
-
-multihome.import () bool false
